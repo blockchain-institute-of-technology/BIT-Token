@@ -1,4 +1,4 @@
-pragma solidity ^0.4.19;
+pragma solidity ^0.4.23;
 
 import './BITToken.sol';
 import 'zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol';
